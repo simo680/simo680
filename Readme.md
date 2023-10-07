@@ -1,1 +1,1 @@
-# https://www.codewars.com/users/simo680/badges/large
+# gg
