@@ -1,29 +1,33 @@
 # Hi there 👋, my name is Erik
-## I am Frontend Developer
+# I am Frontend Developer
 ---
 ## About Me
-* I haven't graduated from college yet.
 * I'm a fan of Spider-Man and I read his comics.
-* I have an orange spot on my hair 
+* I haven't graduated from college yet.
+* I have an orange spot on my hair.
 * I love using gadgets.
 ---
 
 ## Skills
 
- Programming Languages: [List languages you are proficient in]
- Frameworks: [Specify frameworks you have worked with]
+<div>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/vuejs/vuejs-original.svg" title="Vue" alt="Vue" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
+</div>
 
-![](https://komarev.com/ghpvc/?username=simo680)
+ ---
+ ## Stats
+
+
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=queen-leksa&theme=monokai)](https://git.io/streak-stats)
 
 [![codewars](https://www.codewars.com/users/simo680/badges/large)](https://www.codewars.com/users/simo680)
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/simo680)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/reddit.svg' alt='Reddit' height='40'>](https://www.reddit.com/user/simo680)  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=queen-leksa&layout=compact&theme=monokai)](https://github.com/anuraghazra/github-readme-stats)
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=simo680)](https://github.com/ryo-ma/github-profile-trophy)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=simo680)](https://github.com/anuraghazra/github-readme-stats)
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=simo680&show_icons=true&count_private=true)  
-
-![GitHub streak stats](https://streak-stats.demolab.com/?user=simo680)  
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=queen-leksa&show_icons=true&theme=monokai)
 
