@@ -2,7 +2,7 @@
 # I am Frontend Developer
 ---
 ## About Me
-* I'm a fan of Spider-Man and I read his comics.
+* I'm a fan of Spider-Man
 * I haven't graduated from college yet.
 * I have an orange spot on my hair.
 * I love using gadgets.
