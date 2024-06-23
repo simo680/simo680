@@ -28,7 +28,7 @@
 
 [![codewars](https://www.codewars.com/users/simo680/badges/large)](https://www.codewars.com/users/simo680)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=queen-leksa&layout=compact&theme=monokai)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=simo680&layout=compact&theme=monokai)](https://github.com/anuraghazra/github-readme-stats)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=queen-leksa&show_icons=true&theme=monokai)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=simo680&show_icons=true&theme=monokai)
 
