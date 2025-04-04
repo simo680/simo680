@@ -1,34 +1,26 @@
-# Hi there 👋, my name is Erik
-# I am Frontend Developer
----
-## About Me
-* I haven't graduated from college yet.
-* I have an orange spot on my hair.
-* I love using gadgets.
----
+# Hi there, I'm Erik 👋
 
-## Skills
+I'm a frontend developer still studying in college, passionate about building modern and user-friendly interfaces. I work with HTML, SCSS, JavaScript, and TypeScript, and I'm learning popular frameworks like React. I enjoy exploring new tech, love gadgets, and even have a bright orange spot in my hair that reflects my creative side.
 
-<div>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg" title="SASS" alt="SASS" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" title="Redux" alt="Redux" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/vuejs/vuejs-original.svg" title="Vue" alt="Vue" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>&nbsp
-</div>
+## 🛠️ Technologies & Tools
 
- ---
- ## Stats
+- **Languages:** JavaScript, TypeScript, HTML, CSS, SCSS
+- **Frontend Frameworks:** React, Vue
+- **Tools & Platforms:** Git, GitHub, VS Code, Webpack, Gulp, Babel
+- **Styling:** CSS Modules
 
+ ##  📈 GitHub Stats
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=queen-leksa&theme=monokai)](https://git.io/streak-stats)
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=simo680&show_icons=true&theme=monokai)
 
 [![codewars](https://www.codewars.com/users/simo680/badges/large)](https://www.codewars.com/users/simo680)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=simo680&layout=compact&theme=monokai)](https://github.com/anuraghazra/github-readme-stats)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=simo680&show_icons=true&theme=monokai)
+## 📫 How to reach me
 
+- **Email:** erik.simonyan2005@gmail.com
+
+![visitors](https://visitor-badge.glitch.me/badge?page_id=simo680.simo680)
