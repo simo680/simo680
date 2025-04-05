@@ -4,10 +4,10 @@ I'm a frontend developer still studying in college, passionate about building mo
 
 ## 🛠️ Technologies & Tools
 
-- **Languages:** JavaScript, TypeScript, HTML, CSS, SCSS
+- **Languages:** JavaScript, TypeScript, HTML
 - **Frontend Frameworks:** React, Vue
-- **Tools & Platforms:** Git, GitHub, VS Code, Webpack, Gulp, Babel
-- **Styling:** CSS Modules
+- **Tools & Platforms:** Git, GitHub, VS Code, Webpack, Gulp, Vite 
+- **Styling:** CSS, SCSS, CSS Modules
 
  ##  📈 GitHub Stats
 
