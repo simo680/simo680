@@ -11,7 +11,7 @@ I'm a frontend developer still studying in college, passionate about building mo
 
  ##  📈 GitHub Stats
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=queen-leksa&theme=monokai)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=simo680&theme=monokai)](https://git.io/streak-stats)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=simo680&show_icons=true&theme=monokai)
 
