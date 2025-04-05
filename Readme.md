@@ -23,4 +23,4 @@ I'm a frontend developer still studying in college, passionate about building mo
 
 - **Email:** erik.simonyan2005@gmail.com
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=simo680.simo680)
+![visitors](https://komarev.com/ghpvc/?username=simo680&style=for-the-badge&color=272822)
