@@ -23,8 +23,8 @@ I’m a frontend developer who recently graduated from college. I focus on build
 ## 📈 GitHub Stats
 
 <div>
-  <img src="http://github-readme-streak-stats.herokuapp.com?user=simo680&theme=monokai" height="200" alt="GitHub Streak" />
-  <img src="https://github-readme-stats.vercel.app/api?username=simo680&show_icons=true&theme=monokai" height="200" alt="GitHub Stats" />
+  <img src="http://github-readme-streak-stats.herokuapp.com?user=simo680&theme=monokai" height="150" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=simo680&show_icons=true&theme=monokai" height="150" alt="GitHub Stats" />
 </div>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=simo680&layout=compact&theme=monokai)](https://github.com/anuraghazra/github-readme-stats) [![codewars](https://www.codewars.com/users/simo680/badges/large)](https://www.codewars.com/users/simo680)
