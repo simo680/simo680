@@ -1,26 +1,40 @@
 # Hi there, I'm Erik 👋
 
-I'm a frontend developer still studying in college, passionate about building modern and user-friendly interfaces. I work with HTML, SCSS, JavaScript, and TypeScript, and I'm learning popular frameworks like React. I enjoy exploring new tech, love gadgets, and even have a bright orange spot in my hair that reflects my creative side.
+I’m a frontend developer who recently graduated from college. I focus on building modern and user-friendly web applications. Right now, I’m working on my own pet projects to deepen my skills and explore advanced concepts like state management and clean architecture. I’m looking for opportunities to join a team as a frontend developer. I love exploring new technologies, enjoy gadgets, and have a bright orange spot in my hair that reflects my creative side.
 
-## 🛠️ Technologies & Tools
+## 🛠️ Tech Stack
 
-- **Languages:** JavaScript, TypeScript, HTML
-- **Frontend Frameworks:** React, Vue
-- **Tools & Platforms:** Git, GitHub, VS Code, Webpack, Gulp, Vite 
-- **Styling:** CSS, SCSS, CSS Modules
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Vue](https://img.shields.io/badge/Vue-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+![Redux Toolkit](https://img.shields.io/badge/Redux_Toolkit-593D88?style=for-the-badge&logo=redux&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![SCSS](https://img.shields.io/badge/SCSS-CC6699?style=for-the-badge&logo=sass&logoColor=white)
+![CSS Modules](https://img.shields.io/badge/CSS%20Modules-000000?style=for-the-badge)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
+![Webpack](https://img.shields.io/badge/Webpack-8DD6F9?style=for-the-badge&logo=webpack&logoColor=black)
+![Gulp](https://img.shields.io/badge/Gulp-CF4647?style=for-the-badge&logo=gulp&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
- ##  📈 GitHub Stats
+## 📈 GitHub Stats
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=simo680&theme=monokai)](https://git.io/streak-stats)
+<div>
+  <a href="https://github-readme-stats.vercel.app/api?username=simo680&show_icons=true&theme=monokai" style="margin-right: 10px;">
+    <img align="left" height="130" src="https://github-readme-stats.vercel.app/api?username=simo680&show_icons=true&theme=monokai" alt="GitHub Stats" />
+  </a>
+  <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=simo680&layout=compact&theme=monokai" style="margin-right: 10px;">
+    <img align="left" height="130"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=simo680&layout=compact&theme=monokai" alt="Top Langs" />
+  </a>
+  <a href="https://git.io/streak-stats" style="margin-right: 10px;">
+    <img align="left" height="130" src="http://github-readme-streak-stats.herokuapp.com?user=simo680&theme=monokai" alt="GitHub Streak" />
+  </a>
+ <a href="https://www.codewars.com/users/simo680" style="display: block; margin-top: 20px;">
+  <img align="center" src="https://www.codewars.com/users/simo680/badges/large" alt="Codewars" />
+</a>
+</div>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=simo680&show_icons=true&theme=monokai)
 
-[![codewars](https://www.codewars.com/users/simo680/badges/large)](https://www.codewars.com/users/simo680)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=simo680&layout=compact&theme=monokai)](https://github.com/anuraghazra/github-readme-stats)
-
-## 📫 How to reach me
-
-- **Email:** erik.simonyan2005@gmail.com
-
-![visitors](https://komarev.com/ghpvc/?username=simo680&style=for-the-badge&color=272822)
