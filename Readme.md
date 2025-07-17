@@ -22,19 +22,6 @@ I’m a frontend developer who recently graduated from college. I focus on build
 
 ## 📈 GitHub Stats
 
-<div>
-  <a href="https://github-readme-stats.vercel.app/api?username=simo680&show_icons=true&theme=monokai" style="margin-right: 10px;">
-    <img align="left" height="130" src="https://github-readme-stats.vercel.app/api?username=simo680&show_icons=true&theme=monokai" alt="GitHub Stats" />
-  </a>
-  <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=simo680&layout=compact&theme=monokai" style="margin-right: 10px;">
-    <img align="left" height="130"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=simo680&layout=compact&theme=monokai" alt="Top Langs" />
-  </a>
-  <a href="https://git.io/streak-stats" style="margin-right: 10px;">
-    <img align="left" height="130" src="http://github-readme-streak-stats.herokuapp.com?user=simo680&theme=monokai" alt="GitHub Streak" />
-  </a>
- <a href="https://www.codewars.com/users/simo680" style="display: block; margin-top: 20px;">
-  <img align="center" src="https://www.codewars.com/users/simo680/badges/large" alt="Codewars" />
-</a>
-</div>
+![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=simo680&theme=monokai) ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=simo680&show_icons=true&theme=monokai)
 
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=simo680&layout=compact&theme=monokai)](https://github.com/anuraghazra/github-readme-stats) [![codewars](https://www.codewars.com/users/simo680/badges/large)](https://www.codewars.com/users/simo680)
