@@ -1,5 +1,9 @@
 # Hi there, I'm Erik 👋
 
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=simo680&label=PROFILE+VIEWS&color=yellow&style=for-the-badge" alt="Profile Views" />
+</p>
+
 I'm a Frontend Developer specializing in React, JavaScript, and TypeScript. I enjoy building modern web applications with a focus on clean code, maintainable architecture, and user experience.
 
 I'm currently open to new opportunities and looking for a team where I can contribute my skills, take on new challenges, and grow as a developer.
