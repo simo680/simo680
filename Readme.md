@@ -67,16 +67,9 @@ I love exploring new technologies, gadgets, and have a bright orange spot in my 
 
 ## 📈 GitHub Stats
 
-<div align="center">
-  <img src="https://github-stats-extended.vercel.app/api?username=simo680&show_icons=true&theme=monokai" height="170" />
-  <img src="https://streak-stats.demolab.com?user=simo680&theme=monokai" height="170" />
-</div>
-
-<div align="center">
-  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=simo680&layout=compact&theme=monokai" height="170" />
-  <a href="https://www.codewars.com/users/simo680">
-    <img src="https://www.codewars.com/users/simo680/badges/large" height="170" />
-  </a>
+<div >
+  <img src="https://streak-stats.demolab.com?user=simo680&theme=monokai" />
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=simo680&layout=compact&theme=monokai" />
 </div>
 
 ## 🌱 Currently Learning
